@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("SupervicionCajas")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+d477335d7df0681b94ac466587e846ee3a8ef88a")]
 [assembly: System.Reflection.AssemblyProductAttribute("SupervicionCajas")]
 [assembly: System.Reflection.AssemblyTitleAttribute("SupervicionCajas")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

@@ -440,40 +440,43 @@ namespace SupervicionCajas
         {
             MostrarCarga(true);
             //stopTimers();
+            await Task.Run(async ()=> {
 
-            try
-            {
-                if (hubConnection.State == HubConnectionState.Disconnected)
-                    await hubConnection.StartAsync();
-
-                while (hubConnection.State == HubConnectionState.Connecting)
-                { }
-
-                if (hubConnection.State == HubConnectionState.Connected)
+                try
                 {
-                    MessageBox.Show("Conexión creada correctamente.", "Información", MessageBoxButtons.OK, MessageBoxIcon.Information);
-                    await ResfreshCajasDictionary();
+                    if (hubConnection.State == HubConnectionState.Disconnected)
+                        await hubConnection.StartAsync();
 
+                    while (hubConnection.State == HubConnectionState.Connecting)
+                    { }
+
+                    if (hubConnection.State == HubConnectionState.Connected)
+                    {
+                        MessageBox.Show("Conexión creada correctamente.", "Información", MessageBoxButtons.OK, MessageBoxIcon.Information);
+                        await ResfreshCajasDictionary();
+
+                    }
+                    else
+                        MessageBox.Show("Error al intentar conectar con los servicios de las cajas.", "Error", MessageBoxButtons.OK, MessageBoxIcon.Error);
                 }
-                else
-                    MessageBox.Show("Error al intentar conectar con los servicios de las cajas.", "Error", MessageBoxButtons.OK, MessageBoxIcon.Error);
-            }
-            catch (Exception ex)
-            {
-                MessageBox.Show("Error al intentar conectar con los servicios de las cajas. Error: " + ex.Message, "Error", MessageBoxButtons.OK, MessageBoxIcon.Error);
-            }
-            finally
-            {
-                //StartTimers();
-                MostrarCarga(false);
-
-                Invoke((Action)(() =>
+                catch (Exception ex)
                 {
+                    MessageBox.Show("Error al intentar conectar con los servicios de las cajas. Error: " + ex.Message, "Error", MessageBoxButtons.OK, MessageBoxIcon.Error);
+                }
+                finally
+                {
+                    //StartTimers();
+                    MostrarCarga(false);
 
-                    textBox1.Text = hubConnection.State.ToString();
+                    Invoke((Action)(() =>
+                    {
 
-                }));
-            }
+                        textBox1.Text = hubConnection.State.ToString();
+
+                    }));
+                }
+            });
+            
         }
 
 

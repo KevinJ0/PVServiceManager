@@ -110,3 +110,4 @@ C:\Users\Kevin\source\repos\Administrador\SupervicionCajas\obj\Debug\net6.0-wind
 C:\Users\Kevin\source\repos\Administrador\SupervicionCajas\obj\Debug\net6.0-windows7.0\SupervicionCajas.pdb
 C:\Users\Kevin\source\repos\Administrador\SupervicionCajas\obj\Debug\net6.0-windows7.0\SupervicionCajas.genruntimeconfig.cache
 C:\Users\Kevin\source\repos\Administrador\SupervicionCajas\obj\Debug\net6.0-windows7.0\ref\SupervicionCajas.dll
+C:\Users\Kevin\source\repos\Administrador\SupervicionCajas\obj\Debug\net6.0-windows7.0\SupervicionCajas.sourcelink.json
