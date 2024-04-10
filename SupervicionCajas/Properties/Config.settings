@@ -1,0 +1,12 @@
+﻿<?xml version='1.0' encoding='utf-8'?>
+<SettingsFile xmlns="http://schemas.microsoft.com/VisualStudio/2004/01/settings" CurrentProfile="(Default)" GeneratedClassNamespace="SupervicionCajas.Properties" GeneratedClassName="Config">
+  <Profiles />
+  <Settings>
+    <Setting Name="ApiURL" Type="System.String" Scope="User">
+      <Value Profile="(Default)">http://192.172.0.211:4002</Value>
+    </Setting>
+    <Setting Name="SignalRUrl" Type="System.String" Scope="User">
+      <Value Profile="(Default)">https://localhost:7008/mainHub</Value>
+    </Setting>
+  </Settings>
+</SettingsFile>

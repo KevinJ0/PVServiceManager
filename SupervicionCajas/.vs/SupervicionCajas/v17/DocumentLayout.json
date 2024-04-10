@@ -1,0 +1,283 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Kevin\\source\\repos\\SupervicionCajas\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{87DC3945-C20B-43BE-ABF9-11185EB8BD17}|SupervicionCajas.csproj|c:\\users\\kevin\\source\\repos\\supervicioncajas\\services\\cashiersservices.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{87DC3945-C20B-43BE-ABF9-11185EB8BD17}|SupervicionCajas.csproj|solutionrelative:services\\cashiersservices.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{87DC3945-C20B-43BE-ABF9-11185EB8BD17}|SupervicionCajas.csproj|C:\\Users\\Kevin\\source\\repos\\SupervicionCajas\\properties\\config.settings||{6D2695F9-5365-4A78-89ED-F205C045BFE6}",
+      "RelativeMoniker": "D:0:0:{87DC3945-C20B-43BE-ABF9-11185EB8BD17}|SupervicionCajas.csproj|solutionrelative:properties\\config.settings||{6D2695F9-5365-4A78-89ED-F205C045BFE6}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{87DC3945-C20B-43BE-ABF9-11185EB8BD17}|SupervicionCajas.csproj|C:\\Users\\Kevin\\source\\repos\\SupervicionCajas\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{87DC3945-C20B-43BE-ABF9-11185EB8BD17}|SupervicionCajas.csproj|solutionrelative:form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{87DC3945-C20B-43BE-ABF9-11185EB8BD17}|SupervicionCajas.csproj|C:\\Users\\Kevin\\source\\repos\\SupervicionCajas\\services\\companiaservices.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{87DC3945-C20B-43BE-ABF9-11185EB8BD17}|SupervicionCajas.csproj|solutionrelative:services\\companiaservices.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{87DC3945-C20B-43BE-ABF9-11185EB8BD17}|SupervicionCajas.csproj|C:\\Users\\Kevin\\source\\repos\\SupervicionCajas\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{87DC3945-C20B-43BE-ABF9-11185EB8BD17}|SupervicionCajas.csproj|solutionrelative:form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{87DC3945-C20B-43BE-ABF9-11185EB8BD17}|SupervicionCajas.csproj|C:\\Users\\Kevin\\source\\repos\\SupervicionCajas\\app.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{87DC3945-C20B-43BE-ABF9-11185EB8BD17}|SupervicionCajas.csproj|solutionrelative:app.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{87DC3945-C20B-43BE-ABF9-11185EB8BD17}|SupervicionCajas.csproj|C:\\Users\\Kevin\\source\\repos\\SupervicionCajas\\properties\\resources.resx||{FF4D6ACA-9352-4A5F-821E-F4D6EBDCAB11}",
+      "RelativeMoniker": "D:0:0:{87DC3945-C20B-43BE-ABF9-11185EB8BD17}|SupervicionCajas.csproj|solutionrelative:properties\\resources.resx||{FF4D6ACA-9352-4A5F-821E-F4D6EBDCAB11}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{87DC3945-C20B-43BE-ABF9-11185EB8BD17}|SupervicionCajas.csproj|C:\\Users\\Kevin\\source\\repos\\SupervicionCajas\\forms\\loadingform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{87DC3945-C20B-43BE-ABF9-11185EB8BD17}|SupervicionCajas.csproj|solutionrelative:forms\\loadingform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{87DC3945-C20B-43BE-ABF9-11185EB8BD17}|SupervicionCajas.csproj|C:\\Users\\Kevin\\source\\repos\\SupervicionCajas\\_helpers\\utils.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{87DC3945-C20B-43BE-ABF9-11185EB8BD17}|SupervicionCajas.csproj|solutionrelative:_helpers\\utils.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{87DC3945-C20B-43BE-ABF9-11185EB8BD17}|SupervicionCajas.csproj|C:\\Users\\Kevin\\source\\repos\\SupervicionCajas\\models\\compania.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{87DC3945-C20B-43BE-ABF9-11185EB8BD17}|SupervicionCajas.csproj|solutionrelative:models\\compania.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{87DC3945-C20B-43BE-ABF9-11185EB8BD17}|SupervicionCajas.csproj|C:\\Users\\Kevin\\source\\repos\\SupervicionCajas\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{87DC3945-C20B-43BE-ABF9-11185EB8BD17}|SupervicionCajas.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{87DC3945-C20B-43BE-ABF9-11185EB8BD17}|SupervicionCajas.csproj|C:\\Users\\Kevin\\source\\repos\\SupervicionCajas\\_helpers\\enums\\sucursal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{87DC3945-C20B-43BE-ABF9-11185EB8BD17}|SupervicionCajas.csproj|solutionrelative:_helpers\\enums\\sucursal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{87DC3945-C20B-43BE-ABF9-11185EB8BD17}|SupervicionCajas.csproj|C:\\Users\\Kevin\\source\\repos\\SupervicionCajas\\forms\\loadingform.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{87DC3945-C20B-43BE-ABF9-11185EB8BD17}|SupervicionCajas.csproj|solutionrelative:forms\\loadingform.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{87DC3945-C20B-43BE-ABF9-11185EB8BD17}|SupervicionCajas.csproj|C:\\Users\\Kevin\\source\\repos\\SupervicionCajas\\forms\\loadingform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{87DC3945-C20B-43BE-ABF9-11185EB8BD17}|SupervicionCajas.csproj|solutionrelative:forms\\loadingform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{87DC3945-C20B-43BE-ABF9-11185EB8BD17}|SupervicionCajas.csproj|C:\\Users\\Kevin\\source\\repos\\SupervicionCajas\\form1.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{87DC3945-C20B-43BE-ABF9-11185EB8BD17}|SupervicionCajas.csproj|solutionrelative:form1.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{87DC3945-C20B-43BE-ABF9-11185EB8BD17}|SupervicionCajas.csproj|C:\\Users\\Kevin\\source\\repos\\SupervicionCajas\\models\\cashier.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{87DC3945-C20B-43BE-ABF9-11185EB8BD17}|SupervicionCajas.csproj|solutionrelative:models\\cashier.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{ec2c1c6c-cecc-4f7a-869e-9a8f55540944}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "C:\\Users\\Kevin\\source\\repos\\SupervicionCajas\\Form1.cs",
+              "RelativeDocumentMoniker": "Form1.cs",
+              "ToolTip": "C:\\Users\\Kevin\\source\\repos\\SupervicionCajas\\Form1.cs",
+              "RelativeToolTip": "Form1.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAAZAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-02-21T19:14:00.343Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "LoadingForm.cs [Dise\u00F1o]",
+              "DocumentMoniker": "C:\\Users\\Kevin\\source\\repos\\SupervicionCajas\\Forms\\LoadingForm.cs",
+              "RelativeDocumentMoniker": "Forms\\LoadingForm.cs",
+              "ToolTip": "C:\\Users\\Kevin\\source\\repos\\SupervicionCajas\\Forms\\LoadingForm.cs [Dise\u00F1o]",
+              "RelativeToolTip": "Forms\\LoadingForm.cs [Dise\u00F1o]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-02-22T19:44:52.226Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "CashiersServices.cs",
+              "DocumentMoniker": "C:\\Users\\Kevin\\source\\repos\\SupervicionCajas\\Services\\CashiersServices.cs",
+              "RelativeDocumentMoniker": "Services\\CashiersServices.cs",
+              "ToolTip": "C:\\Users\\Kevin\\source\\repos\\SupervicionCajas\\Services\\CashiersServices.cs",
+              "RelativeToolTip": "Services\\CashiersServices.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAAcAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-02-21T15:06:36.969Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Utils.cs",
+              "DocumentMoniker": "C:\\Users\\Kevin\\source\\repos\\SupervicionCajas\\_helpers\\Utils.cs",
+              "RelativeDocumentMoniker": "_helpers\\Utils.cs",
+              "ToolTip": "C:\\Users\\Kevin\\source\\repos\\SupervicionCajas\\_helpers\\Utils.cs",
+              "RelativeToolTip": "_helpers\\Utils.cs",
+              "ViewState": "AQIAABoBAAAAAAAAAAAswCYBAABIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-02-21T15:16:15.129Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Form1.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\Kevin\\source\\repos\\SupervicionCajas\\Form1.cs",
+              "RelativeDocumentMoniker": "Form1.cs",
+              "ToolTip": "C:\\Users\\Kevin\\source\\repos\\SupervicionCajas\\Form1.cs [Design]",
+              "RelativeToolTip": "Form1.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-02-21T19:16:54.61Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Resources.resx",
+              "DocumentMoniker": "C:\\Users\\Kevin\\source\\repos\\SupervicionCajas\\Properties\\Resources.resx",
+              "RelativeDocumentMoniker": "Properties\\Resources.resx",
+              "ToolTip": "C:\\Users\\Kevin\\source\\repos\\SupervicionCajas\\Properties\\Resources.resx",
+              "RelativeToolTip": "Properties\\Resources.resx",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001005|",
+              "WhenOpened": "2024-02-22T18:49:13.605Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "CompaniaServices.cs",
+              "DocumentMoniker": "C:\\Users\\Kevin\\source\\repos\\SupervicionCajas\\Services\\CompaniaServices.cs",
+              "RelativeDocumentMoniker": "Services\\CompaniaServices.cs",
+              "ToolTip": "C:\\Users\\Kevin\\source\\repos\\SupervicionCajas\\Services\\CompaniaServices.cs",
+              "RelativeToolTip": "Services\\CompaniaServices.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABQAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-02-23T15:36:00.556Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Config.settings",
+              "DocumentMoniker": "C:\\Users\\Kevin\\source\\repos\\SupervicionCajas\\Properties\\Config.settings",
+              "RelativeDocumentMoniker": "Properties\\Config.settings",
+              "ToolTip": "C:\\Users\\Kevin\\source\\repos\\SupervicionCajas\\Properties\\Config.settings",
+              "RelativeToolTip": "Properties\\Config.settings",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.002767|",
+              "WhenOpened": "2024-02-21T15:14:44.986Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Sucursal.cs",
+              "DocumentMoniker": "C:\\Users\\Kevin\\source\\repos\\SupervicionCajas\\_helpers\\Enums\\Sucursal.cs",
+              "RelativeDocumentMoniker": "_helpers\\Enums\\Sucursal.cs",
+              "ToolTip": "C:\\Users\\Kevin\\source\\repos\\SupervicionCajas\\_helpers\\Enums\\Sucursal.cs",
+              "RelativeToolTip": "_helpers\\Enums\\Sucursal.cs",
+              "ViewState": "AQIAAAIAAAAAAAAAAAAvwBMAAAAkAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-02-21T15:20:41.968Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "App.config",
+              "DocumentMoniker": "C:\\Users\\Kevin\\source\\repos\\SupervicionCajas\\App.config",
+              "RelativeDocumentMoniker": "App.config",
+              "ToolTip": "C:\\Users\\Kevin\\source\\repos\\SupervicionCajas\\App.config",
+              "RelativeToolTip": "App.config",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000601|",
+              "WhenOpened": "2024-02-29T14:02:36.646Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "LoadingForm.cs",
+              "DocumentMoniker": "C:\\Users\\Kevin\\source\\repos\\SupervicionCajas\\Forms\\LoadingForm.cs",
+              "RelativeDocumentMoniker": "Forms\\LoadingForm.cs",
+              "ToolTip": "C:\\Users\\Kevin\\source\\repos\\SupervicionCajas\\Forms\\LoadingForm.cs",
+              "RelativeToolTip": "Forms\\LoadingForm.cs",
+              "ViewState": "AQIAAAkAAAAAAAAAAAAAABAAAAAfAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-02-22T19:50:28.898Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Compania.cs",
+              "DocumentMoniker": "C:\\Users\\Kevin\\source\\repos\\SupervicionCajas\\Models\\Compania.cs",
+              "RelativeDocumentMoniker": "Models\\Compania.cs",
+              "ToolTip": "C:\\Users\\Kevin\\source\\repos\\SupervicionCajas\\Models\\Compania.cs",
+              "RelativeToolTip": "Models\\Compania.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAACAAAAAtAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-02-23T15:31:39.699Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "Form1.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\Kevin\\source\\repos\\SupervicionCajas\\Form1.Designer.cs",
+              "RelativeDocumentMoniker": "Form1.Designer.cs",
+              "ToolTip": "C:\\Users\\Kevin\\source\\repos\\SupervicionCajas\\Form1.Designer.cs",
+              "RelativeToolTip": "Form1.Designer.cs",
+              "ViewState": "AQIAAKsAAAAAAAAAAAAYwBwAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-02-21T19:15:04.424Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Kevin\\source\\repos\\SupervicionCajas\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Users\\Kevin\\source\\repos\\SupervicionCajas\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAcAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-02-21T19:04:47.16Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "LoadingForm.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\Kevin\\source\\repos\\SupervicionCajas\\Forms\\LoadingForm.Designer.cs",
+              "RelativeDocumentMoniker": "Forms\\LoadingForm.Designer.cs",
+              "ToolTip": "C:\\Users\\Kevin\\source\\repos\\SupervicionCajas\\Forms\\LoadingForm.Designer.cs",
+              "RelativeToolTip": "Forms\\LoadingForm.Designer.cs",
+              "ViewState": "AQIAABYAAAAAAAAAAAAvwCQAAAAuAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-02-22T19:44:30.738Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "Cashier.cs",
+              "DocumentMoniker": "C:\\Users\\Kevin\\source\\repos\\SupervicionCajas\\Models\\Cashier.cs",
+              "RelativeDocumentMoniker": "Models\\Cashier.cs",
+              "ToolTip": "C:\\Users\\Kevin\\source\\repos\\SupervicionCajas\\Models\\Cashier.cs",
+              "RelativeToolTip": "Models\\Cashier.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAgwBkAAAAYAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-02-21T15:21:25.264Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

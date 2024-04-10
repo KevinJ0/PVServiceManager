@@ -1,0 +1,22 @@
+[
+  {
+    "Name": "Todos",
+    "Projects": [
+      {
+        "Name": "SignalRService\\SignalRService.csproj",
+        "Action": "Start",
+        "DebugTarget": "SignalRService"
+      },
+      {
+        "Name": "SupervicionCajas\\SupervicionCajas.csproj",
+        "Action": "Start",
+        "DebugTarget": "SupervicionCajas"
+      },
+      {
+        "Name": "SystemTray\\SystemTray.csproj",
+        "Action": "Start",
+        "DebugTarget": "SystemTray"
+      }
+    ]
+  }
+]
