@@ -3,12 +3,55 @@
   "WorkspaceRootPath": "C:\\Users\\Kevin\\source\\repos\\Administrador\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{36D4E3E2-667F-4F64-BFF0-EF58CB7638D7}|SupervicionCajas\\SupervicionCajas.csproj|C:\\Users\\Kevin\\source\\repos\\Administrador\\supervicioncajas\\mainform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{36D4E3E2-667F-4F64-BFF0-EF58CB7638D7}|SupervicionCajas\\SupervicionCajas.csproj|c:\\users\\kevin\\source\\repos\\administrador\\supervicioncajas\\mainform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{36D4E3E2-667F-4F64-BFF0-EF58CB7638D7}|SupervicionCajas\\SupervicionCajas.csproj|solutionrelative:supervicioncajas\\mainform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{36D4E3E2-667F-4F64-BFF0-EF58CB7638D7}|SupervicionCajas\\SupervicionCajas.csproj|c:\\users\\kevin\\source\\repos\\administrador\\supervicioncajas\\mainform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "AbsoluteMoniker": "D:0:0:{36D4E3E2-667F-4F64-BFF0-EF58CB7638D7}|SupervicionCajas\\SupervicionCajas.csproj|C:\\Users\\Kevin\\source\\repos\\Administrador\\supervicioncajas\\mainform.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{36D4E3E2-667F-4F64-BFF0-EF58CB7638D7}|SupervicionCajas\\SupervicionCajas.csproj|solutionrelative:supervicioncajas\\mainform.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{36D4E3E2-667F-4F64-BFF0-EF58CB7638D7}|SupervicionCajas\\SupervicionCajas.csproj|C:\\Users\\Kevin\\source\\repos\\Administrador\\supervicioncajas\\forms\\cofigcajaform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{36D4E3E2-667F-4F64-BFF0-EF58CB7638D7}|SupervicionCajas\\SupervicionCajas.csproj|solutionrelative:supervicioncajas\\forms\\cofigcajaform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{36D4E3E2-667F-4F64-BFF0-EF58CB7638D7}|SupervicionCajas\\SupervicionCajas.csproj|C:\\Users\\Kevin\\source\\repos\\Administrador\\supervicioncajas\\mainform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
       "RelativeMoniker": "D:0:0:{36D4E3E2-667F-4F64-BFF0-EF58CB7638D7}|SupervicionCajas\\SupervicionCajas.csproj|solutionrelative:supervicioncajas\\mainform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2747C77D-F20E-4B2C-B25F-F25EB4BF2BD4}|SystemTray\\SystemTray.csproj|C:\\Users\\Kevin\\source\\repos\\Administrador\\systemtray\\systemtrayform.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2747C77D-F20E-4B2C-B25F-F25EB4BF2BD4}|SystemTray\\SystemTray.csproj|solutionrelative:systemtray\\systemtrayform.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{46AA4775-6444-4F3F-BC88-C13686B2CE16}|SignalRService\\SignalRService.csproj|C:\\Users\\Kevin\\source\\repos\\Administrador\\signalrservice\\hubs\\mainhub.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{46AA4775-6444-4F3F-BC88-C13686B2CE16}|SignalRService\\SignalRService.csproj|solutionrelative:signalrservice\\hubs\\mainhub.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{36D4E3E2-667F-4F64-BFF0-EF58CB7638D7}|SupervicionCajas\\SupervicionCajas.csproj|C:\\Users\\Kevin\\source\\repos\\Administrador\\supervicioncajas\\properties\\resources.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{36D4E3E2-667F-4F64-BFF0-EF58CB7638D7}|SupervicionCajas\\SupervicionCajas.csproj|solutionrelative:supervicioncajas\\properties\\resources.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{36D4E3E2-667F-4F64-BFF0-EF58CB7638D7}|SupervicionCajas\\SupervicionCajas.csproj|C:\\Users\\Kevin\\source\\repos\\Administrador\\supervicioncajas\\properties\\resources.resx||{FF4D6ACA-9352-4A5F-821E-F4D6EBDCAB11}",
+      "RelativeMoniker": "D:0:0:{36D4E3E2-667F-4F64-BFF0-EF58CB7638D7}|SupervicionCajas\\SupervicionCajas.csproj|solutionrelative:supervicioncajas\\properties\\resources.resx||{FF4D6ACA-9352-4A5F-821E-F4D6EBDCAB11}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Kevin\\AppData\\Local\\SourceServer\\2d62565e6067832a639bfcd4cc0ca58ab1e01d277f844d4abd511fad1b4c41d3\\SupervicionCajas\\MainForm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{36D4E3E2-667F-4F64-BFF0-EF58CB7638D7}|SupervicionCajas\\SupervicionCajas.csproj|C:\\Users\\Kevin\\source\\repos\\Administrador\\supervicioncajas\\forms\\cofigcajaform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{36D4E3E2-667F-4F64-BFF0-EF58CB7638D7}|SupervicionCajas\\SupervicionCajas.csproj|solutionrelative:supervicioncajas\\forms\\cofigcajaform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{36D4E3E2-667F-4F64-BFF0-EF58CB7638D7}|SupervicionCajas\\SupervicionCajas.csproj|C:\\Users\\Kevin\\source\\repos\\Administrador\\supervicioncajas\\forms\\loadingform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{36D4E3E2-667F-4F64-BFF0-EF58CB7638D7}|SupervicionCajas\\SupervicionCajas.csproj|solutionrelative:supervicioncajas\\forms\\loadingform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{36D4E3E2-667F-4F64-BFF0-EF58CB7638D7}|SupervicionCajas\\SupervicionCajas.csproj|C:\\Users\\Kevin\\source\\repos\\Administrador\\supervicioncajas\\properties\\config.settings||{6D2695F9-5365-4A78-89ED-F205C045BFE6}",
+      "RelativeMoniker": "D:0:0:{36D4E3E2-667F-4F64-BFF0-EF58CB7638D7}|SupervicionCajas\\SupervicionCajas.csproj|solutionrelative:supervicioncajas\\properties\\config.settings||{6D2695F9-5365-4A78-89ED-F205C045BFE6}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{36D4E3E2-667F-4F64-BFF0-EF58CB7638D7}|SupervicionCajas\\SupervicionCajas.csproj|C:\\Users\\Kevin\\source\\repos\\Administrador\\supervicioncajas\\app.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{36D4E3E2-667F-4F64-BFF0-EF58CB7638D7}|SupervicionCajas\\SupervicionCajas.csproj|solutionrelative:supervicioncajas\\app.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\MSBuild\\Current\\Bin\\amd64\\Microsoft.Common.CurrentVersion.targets||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
@@ -18,24 +61,12 @@
       "RelativeMoniker": "D:0:0:{46AA4775-6444-4F3F-BC88-C13686B2CE16}|SignalRService\\SignalRService.csproj|solutionrelative:signalrservice\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{46AA4775-6444-4F3F-BC88-C13686B2CE16}|SignalRService\\SignalRService.csproj|C:\\Users\\Kevin\\source\\repos\\Administrador\\signalrservice\\hubs\\mainhub.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{46AA4775-6444-4F3F-BC88-C13686B2CE16}|SignalRService\\SignalRService.csproj|solutionrelative:signalrservice\\hubs\\mainhub.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{46AA4775-6444-4F3F-BC88-C13686B2CE16}|SignalRService\\SignalRService.csproj|C:\\Users\\Kevin\\source\\repos\\Administrador\\signalrservice\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
       "RelativeMoniker": "D:0:0:{46AA4775-6444-4F3F-BC88-C13686B2CE16}|SignalRService\\SignalRService.csproj|solutionrelative:signalrservice\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{2747C77D-F20E-4B2C-B25F-F25EB4BF2BD4}|SystemTray\\SystemTray.csproj|C:\\Users\\Kevin\\source\\repos\\Administrador\\systemtray\\systemtrayform.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{2747C77D-F20E-4B2C-B25F-F25EB4BF2BD4}|SystemTray\\SystemTray.csproj|solutionrelative:systemtray\\systemtrayform.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{2747C77D-F20E-4B2C-B25F-F25EB4BF2BD4}|SystemTray\\SystemTray.csproj|C:\\Users\\Kevin\\source\\repos\\Administrador\\systemtray\\systemtrayform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
       "RelativeMoniker": "D:0:0:{2747C77D-F20E-4B2C-B25F-F25EB4BF2BD4}|SystemTray\\SystemTray.csproj|solutionrelative:systemtray\\systemtrayform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{36D4E3E2-667F-4F64-BFF0-EF58CB7638D7}|SupervicionCajas\\SupervicionCajas.csproj|C:\\Users\\Kevin\\source\\repos\\Administrador\\supervicioncajas\\mainform.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{36D4E3E2-667F-4F64-BFF0-EF58CB7638D7}|SupervicionCajas\\SupervicionCajas.csproj|solutionrelative:supervicioncajas\\mainform.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{36D4E3E2-667F-4F64-BFF0-EF58CB7638D7}|SupervicionCajas\\SupervicionCajas.csproj|C:\\Users\\Kevin\\source\\repos\\Administrador\\supervicioncajas\\_helpers\\utils.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -44,14 +75,6 @@
     {
       "AbsoluteMoniker": "D:0:0:{2747C77D-F20E-4B2C-B25F-F25EB4BF2BD4}|SystemTray\\SystemTray.csproj|C:\\Users\\Kevin\\source\\repos\\Administrador\\systemtray\\systemtrayform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{2747C77D-F20E-4B2C-B25F-F25EB4BF2BD4}|SystemTray\\SystemTray.csproj|solutionrelative:systemtray\\systemtrayform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{36D4E3E2-667F-4F64-BFF0-EF58CB7638D7}|SupervicionCajas\\SupervicionCajas.csproj|C:\\Users\\Kevin\\source\\repos\\Administrador\\supervicioncajas\\forms\\cofigcajaform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{36D4E3E2-667F-4F64-BFF0-EF58CB7638D7}|SupervicionCajas\\SupervicionCajas.csproj|solutionrelative:supervicioncajas\\forms\\cofigcajaform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{36D4E3E2-667F-4F64-BFF0-EF58CB7638D7}|SupervicionCajas\\SupervicionCajas.csproj|C:\\Users\\Kevin\\source\\repos\\Administrador\\supervicioncajas\\forms\\cofigcajaform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
-      "RelativeMoniker": "D:0:0:{36D4E3E2-667F-4F64-BFF0-EF58CB7638D7}|SupervicionCajas\\SupervicionCajas.csproj|solutionrelative:supervicioncajas\\forms\\cofigcajaform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     }
   ],
   "DocumentGroupContainers": [
@@ -61,7 +84,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 6,
+          "SelectedChildIndex": 5,
           "Children": [
             {
               "$type": "Bookmark",
@@ -73,31 +96,19 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "Microsoft.Common.CurrentVersion.targets",
-              "DocumentMoniker": "C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\MSBuild\\Current\\Bin\\amd64\\Microsoft.Common.CurrentVersion.targets",
-              "RelativeDocumentMoniker": "..\\..\\..\\..\\..\\Program Files\\Microsoft Visual Studio\\2022\\Community\\MSBuild\\Current\\Bin\\amd64\\Microsoft.Common.CurrentVersion.targets",
-              "ToolTip": "C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\MSBuild\\Current\\Bin\\amd64\\Microsoft.Common.CurrentVersion.targets",
-              "RelativeToolTip": "..\\..\\..\\..\\..\\Program Files\\Microsoft Visual Studio\\2022\\Community\\MSBuild\\Current\\Bin\\amd64\\Microsoft.Common.CurrentVersion.targets",
-              "ViewState": "AQIAAHUUAAAAAAAAAAAuwIUUAAAEAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003801|",
-              "WhenOpened": "2024-04-10T13:50:01.681Z"
-            },
-            {
-              "$type": "Document",
               "DocumentIndex": 3,
-              "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\Kevin\\source\\repos\\Administrador\\SignalRService\\Program.cs",
-              "RelativeDocumentMoniker": "SignalRService\\Program.cs",
-              "ToolTip": "C:\\Users\\Kevin\\source\\repos\\Administrador\\SignalRService\\Program.cs",
-              "RelativeToolTip": "SignalRService\\Program.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAAiAAAA",
+              "Title": "MainForm.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\Kevin\\source\\repos\\Administrador\\SupervicionCajas\\MainForm.cs",
+              "RelativeDocumentMoniker": "SupervicionCajas\\MainForm.cs",
+              "ToolTip": "C:\\Users\\Kevin\\source\\repos\\Administrador\\SupervicionCajas\\MainForm.cs [Design]",
+              "RelativeToolTip": "SupervicionCajas\\MainForm.cs [Design]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-04-10T13:38:07.636Z"
+              "WhenOpened": "2024-04-12T19:13:30.524Z",
+              "EditorCaption": " [Design]"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 5,
               "Title": "MainHub.cs",
               "DocumentMoniker": "C:\\Users\\Kevin\\source\\repos\\Administrador\\SignalRService\\Hubs\\MainHub.cs",
               "RelativeDocumentMoniker": "SignalRService\\Hubs\\MainHub.cs",
@@ -109,7 +120,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 4,
               "Title": "SystemTrayForm.Designer.cs",
               "DocumentMoniker": "C:\\Users\\Kevin\\source\\repos\\Administrador\\SystemTray\\SystemTrayForm.Designer.cs",
               "RelativeDocumentMoniker": "SystemTray\\SystemTrayForm.Designer.cs",
@@ -117,8 +128,7 @@
               "RelativeToolTip": "SystemTray\\SystemTrayForm.Designer.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-03-28T19:44:22.662Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-03-28T19:44:22.662Z"
             },
             {
               "$type": "Document",
@@ -128,38 +138,142 @@
               "RelativeDocumentMoniker": "SupervicionCajas\\MainForm.cs",
               "ToolTip": "C:\\Users\\Kevin\\source\\repos\\Administrador\\SupervicionCajas\\MainForm.cs",
               "RelativeToolTip": "SupervicionCajas\\MainForm.cs",
-              "ViewState": "AQIAALIBAAAAAAAAAAASwL4BAAAUAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAoAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-03-28T20:33:13.462Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 11,
+              "DocumentIndex": 2,
+              "Title": "CofigCajaForm.cs [Dise\u00F1o]",
+              "DocumentMoniker": "C:\\Users\\Kevin\\source\\repos\\Administrador\\SupervicionCajas\\Forms\\CofigCajaForm.cs",
+              "RelativeDocumentMoniker": "SupervicionCajas\\Forms\\CofigCajaForm.cs",
+              "ToolTip": "C:\\Users\\Kevin\\source\\repos\\Administrador\\SupervicionCajas\\Forms\\CofigCajaForm.cs [Dise\u00F1o]",
+              "RelativeToolTip": "SupervicionCajas\\Forms\\CofigCajaForm.cs [Dise\u00F1o]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-28T20:03:11.382Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "MainForm.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\Kevin\\source\\repos\\Administrador\\SupervicionCajas\\MainForm.Designer.cs",
+              "RelativeDocumentMoniker": "SupervicionCajas\\MainForm.Designer.cs",
+              "ToolTip": "C:\\Users\\Kevin\\source\\repos\\Administrador\\SupervicionCajas\\MainForm.Designer.cs",
+              "RelativeToolTip": "SupervicionCajas\\MainForm.Designer.cs",
+              "ViewState": "AQIAAOsAAAAAAAAAAAAswP0AAAAPAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-10T12:57:52.181Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Resources.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\Kevin\\source\\repos\\Administrador\\SupervicionCajas\\Properties\\Resources.Designer.cs",
+              "RelativeDocumentMoniker": "SupervicionCajas\\Properties\\Resources.Designer.cs",
+              "ToolTip": "C:\\Users\\Kevin\\source\\repos\\Administrador\\SupervicionCajas\\Properties\\Resources.Designer.cs",
+              "RelativeToolTip": "SupervicionCajas\\Properties\\Resources.Designer.cs",
+              "ViewState": "AQIAAIIAAAAAAAAAAAASwJsAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-12T19:04:58.281Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Resources.resx",
+              "DocumentMoniker": "C:\\Users\\Kevin\\source\\repos\\Administrador\\SupervicionCajas\\Properties\\Resources.resx",
+              "RelativeDocumentMoniker": "SupervicionCajas\\Properties\\Resources.resx",
+              "ToolTip": "C:\\Users\\Kevin\\source\\repos\\Administrador\\SupervicionCajas\\Properties\\Resources.resx",
+              "RelativeToolTip": "SupervicionCajas\\Properties\\Resources.resx",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001005|",
+              "WhenOpened": "2024-04-12T19:07:35.898Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
               "Title": "CofigCajaForm.cs",
               "DocumentMoniker": "C:\\Users\\Kevin\\source\\repos\\Administrador\\SupervicionCajas\\Forms\\CofigCajaForm.cs",
               "RelativeDocumentMoniker": "SupervicionCajas\\Forms\\CofigCajaForm.cs",
               "ToolTip": "C:\\Users\\Kevin\\source\\repos\\Administrador\\SupervicionCajas\\Forms\\CofigCajaForm.cs",
               "RelativeToolTip": "SupervicionCajas\\Forms\\CofigCajaForm.cs",
-              "ViewState": "AQIAAEcAAAAAAAAAAAAgwFIAAAAxAAAA",
+              "ViewState": "AQIAAEEAAAAAAAAAAAAgwF0AAAAXAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-03-28T20:03:14.526Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "MainForm.cs [Dise\u00F1o]",
-              "DocumentMoniker": "C:\\Users\\Kevin\\source\\repos\\Administrador\\SupervicionCajas\\MainForm.cs",
-              "RelativeDocumentMoniker": "SupervicionCajas\\MainForm.cs",
-              "ToolTip": "C:\\Users\\Kevin\\source\\repos\\Administrador\\SupervicionCajas\\MainForm.cs [Dise\u00F1o]",
-              "RelativeToolTip": "SupervicionCajas\\MainForm.cs [Dise\u00F1o]",
+              "DocumentIndex": 14,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Kevin\\source\\repos\\Administrador\\SignalRService\\Program.cs",
+              "RelativeDocumentMoniker": "SignalRService\\Program.cs",
+              "ToolTip": "C:\\Users\\Kevin\\source\\repos\\Administrador\\SignalRService\\Program.cs",
+              "RelativeToolTip": "SignalRService\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAAiAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-03-28T19:42:53.445Z",
-              "EditorCaption": " [Dise\u00F1o]"
+              "WhenOpened": "2024-04-10T13:38:07.636Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 10,
+              "Title": "LoadingForm.cs [Dise\u00F1o]",
+              "DocumentMoniker": "C:\\Users\\Kevin\\source\\repos\\Administrador\\SupervicionCajas\\Forms\\LoadingForm.cs",
+              "RelativeDocumentMoniker": "SupervicionCajas\\Forms\\LoadingForm.cs",
+              "ToolTip": "C:\\Users\\Kevin\\source\\repos\\Administrador\\SupervicionCajas\\Forms\\LoadingForm.cs [Dise\u00F1o]",
+              "RelativeToolTip": "SupervicionCajas\\Forms\\LoadingForm.cs [Dise\u00F1o]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-12T15:50:05.222Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "MainForm.cs",
+              "DocumentMoniker": "C:\\Users\\Kevin\\AppData\\Local\\SourceServer\\2d62565e6067832a639bfcd4cc0ca58ab1e01d277f844d4abd511fad1b4c41d3\\SupervicionCajas\\MainForm.cs",
+              "RelativeDocumentMoniker": "..\\..\\..\\AppData\\Local\\SourceServer\\2d62565e6067832a639bfcd4cc0ca58ab1e01d277f844d4abd511fad1b4c41d3\\SupervicionCajas\\MainForm.cs",
+              "ToolTip": "C:\\Users\\Kevin\\AppData\\Local\\SourceServer\\2d62565e6067832a639bfcd4cc0ca58ab1e01d277f844d4abd511fad1b4c41d3\\SupervicionCajas\\MainForm.cs [Solo lectura]",
+              "RelativeToolTip": "..\\..\\..\\AppData\\Local\\SourceServer\\2d62565e6067832a639bfcd4cc0ca58ab1e01d277f844d4abd511fad1b4c41d3\\SupervicionCajas\\MainForm.cs [Solo lectura]",
+              "ViewState": "AQIAAP8BAAAAAAAAAAAhwBkCAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-12T15:53:59.641Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Config.settings",
+              "DocumentMoniker": "C:\\Users\\Kevin\\source\\repos\\Administrador\\SupervicionCajas\\Properties\\Config.settings",
+              "RelativeDocumentMoniker": "SupervicionCajas\\Properties\\Config.settings",
+              "ToolTip": "C:\\Users\\Kevin\\source\\repos\\Administrador\\SupervicionCajas\\Properties\\Config.settings",
+              "RelativeToolTip": "SupervicionCajas\\Properties\\Config.settings",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.002767|",
+              "WhenOpened": "2024-04-12T15:03:52.827Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "Microsoft.Common.CurrentVersion.targets",
+              "DocumentMoniker": "C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\MSBuild\\Current\\Bin\\amd64\\Microsoft.Common.CurrentVersion.targets",
+              "RelativeDocumentMoniker": "..\\..\\..\\..\\..\\Program Files\\Microsoft Visual Studio\\2022\\Community\\MSBuild\\Current\\Bin\\amd64\\Microsoft.Common.CurrentVersion.targets",
+              "ToolTip": "C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\MSBuild\\Current\\Bin\\amd64\\Microsoft.Common.CurrentVersion.targets",
+              "RelativeToolTip": "..\\..\\..\\..\\..\\Program Files\\Microsoft Visual Studio\\2022\\Community\\MSBuild\\Current\\Bin\\amd64\\Microsoft.Common.CurrentVersion.targets",
+              "ViewState": "AQIAAHUUAAAAAAAAAAAuwIUUAAAEAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003801|",
+              "WhenOpened": "2024-04-10T13:50:01.681Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "App.config",
+              "DocumentMoniker": "C:\\Users\\Kevin\\source\\repos\\Administrador\\SupervicionCajas\\App.config",
+              "RelativeDocumentMoniker": "SupervicionCajas\\App.config",
+              "ToolTip": "C:\\Users\\Kevin\\source\\repos\\Administrador\\SupervicionCajas\\App.config",
+              "RelativeToolTip": "SupervicionCajas\\App.config",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABcAAAAQAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000601|",
+              "WhenOpened": "2024-04-12T15:03:48.501Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
               "Title": "appsettings.json",
               "DocumentMoniker": "C:\\Users\\Kevin\\source\\repos\\Administrador\\SignalRService\\appsettings.json",
               "RelativeDocumentMoniker": "SignalRService\\appsettings.json",
@@ -171,32 +285,18 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
+              "DocumentIndex": 16,
               "Title": "SystemTrayForm.cs [Dise\u00F1o]",
               "DocumentMoniker": "C:\\Users\\Kevin\\source\\repos\\Administrador\\SystemTray\\SystemTrayForm.cs",
               "RelativeDocumentMoniker": "SystemTray\\SystemTrayForm.cs",
               "ToolTip": "C:\\Users\\Kevin\\source\\repos\\Administrador\\SystemTray\\SystemTrayForm.cs [Dise\u00F1o]",
               "RelativeToolTip": "SystemTray\\SystemTrayForm.cs [Dise\u00F1o]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-03-28T19:44:24.371Z",
-              "EditorCaption": " [Dise\u00F1o]"
+              "WhenOpened": "2024-03-28T19:44:24.371Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 8,
-              "Title": "MainForm.Designer.cs",
-              "DocumentMoniker": "C:\\Users\\Kevin\\source\\repos\\Administrador\\SupervicionCajas\\MainForm.Designer.cs",
-              "RelativeDocumentMoniker": "SupervicionCajas\\MainForm.Designer.cs",
-              "ToolTip": "C:\\Users\\Kevin\\source\\repos\\Administrador\\SupervicionCajas\\MainForm.Designer.cs",
-              "RelativeToolTip": "SupervicionCajas\\MainForm.Designer.cs",
-              "ViewState": "AQIAANAAAAAAAAAAAADgv+EAAAAPAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-04-10T12:57:52.181Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 10,
+              "DocumentIndex": 18,
               "Title": "SystemTrayForm.cs",
               "DocumentMoniker": "C:\\Users\\Kevin\\source\\repos\\Administrador\\SystemTray\\SystemTrayForm.cs",
               "RelativeDocumentMoniker": "SystemTray\\SystemTrayForm.cs",
@@ -204,12 +304,11 @@
               "RelativeToolTip": "SystemTray\\SystemTrayForm.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAvAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-03-28T19:44:26.209Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-03-28T19:44:26.209Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 9,
+              "DocumentIndex": 17,
               "Title": "Utils.cs",
               "DocumentMoniker": "C:\\Users\\Kevin\\source\\repos\\Administrador\\SupervicionCajas\\_helpers\\Utils.cs",
               "RelativeDocumentMoniker": "SupervicionCajas\\_helpers\\Utils.cs",
@@ -218,17 +317,6 @@
               "ViewState": "AQIAAMEAAAAAAAAAAAAhwNAAAABEAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-04-01T12:51:27.89Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 12,
-              "Title": "CofigCajaForm.cs [Dise\u00F1o]",
-              "DocumentMoniker": "C:\\Users\\Kevin\\source\\repos\\Administrador\\SupervicionCajas\\Forms\\CofigCajaForm.cs",
-              "RelativeDocumentMoniker": "SupervicionCajas\\Forms\\CofigCajaForm.cs",
-              "ToolTip": "C:\\Users\\Kevin\\source\\repos\\Administrador\\SupervicionCajas\\Forms\\CofigCajaForm.cs [Dise\u00F1o]",
-              "RelativeToolTip": "SupervicionCajas\\Forms\\CofigCajaForm.cs [Dise\u00F1o]",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-03-28T20:03:11.382Z"
             }
           ]
         }

@@ -6,7 +6,7 @@
       <Value Profile="(Default)">http://192.172.0.211:4002</Value>
     </Setting>
     <Setting Name="SignalRUrl" Type="System.String" Scope="User">
-      <Value Profile="(Default)">https://localhost:7008/mainHub</Value>
+      <Value Profile="(Default)">http://192.172.0.211:4010/mainHub</Value>
     </Setting>
   </Settings>
 </SettingsFile>

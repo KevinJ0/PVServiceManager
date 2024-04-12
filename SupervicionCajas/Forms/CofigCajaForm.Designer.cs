@@ -50,7 +50,7 @@
             // 
             button1.Anchor = AnchorStyles.Top | AnchorStyles.Right;
             button1.Font = new Font("Segoe UI", 9F, FontStyle.Regular, GraphicsUnit.Point);
-            button1.Location = new Point(676, 8);
+            button1.Location = new Point(811, 8);
             button1.Name = "button1";
             button1.Size = new Size(111, 34);
             button1.TabIndex = 1;
@@ -61,10 +61,11 @@
             // NoCajaBox
             // 
             NoCajaBox.Anchor = AnchorStyles.Top | AnchorStyles.Left | AnchorStyles.Right;
+            NoCajaBox.BackColor = Color.White;
             NoCajaBox.Location = new Point(163, 43);
             NoCajaBox.MinimumSize = new Size(200, 0);
             NoCajaBox.Name = "NoCajaBox";
-            NoCajaBox.Size = new Size(209, 27);
+            NoCajaBox.Size = new Size(310, 27);
             NoCajaBox.TabIndex = 4;
             // 
             // ServerConnectionBox
@@ -73,7 +74,7 @@
             ServerConnectionBox.Location = new Point(163, 75);
             ServerConnectionBox.MinimumSize = new Size(500, 0);
             ServerConnectionBox.Name = "ServerConnectionBox";
-            ServerConnectionBox.Size = new Size(623, 27);
+            ServerConnectionBox.Size = new Size(758, 27);
             ServerConnectionBox.TabIndex = 5;
             // 
             // DelayTimeNumeric
@@ -94,7 +95,7 @@
             ClientConnectionBox.Location = new Point(163, 107);
             ClientConnectionBox.MinimumSize = new Size(500, 0);
             ClientConnectionBox.Name = "ClientConnectionBox";
-            ClientConnectionBox.Size = new Size(623, 27);
+            ClientConnectionBox.Size = new Size(758, 27);
             ClientConnectionBox.TabIndex = 7;
             // 
             // panel1
@@ -110,9 +111,10 @@
             panel1.Controls.Add(ClientConnectionBox);
             panel1.Controls.Add(ServerConnectionBox);
             panel1.Controls.Add(DelayTimeNumeric);
+            panel1.Dock = DockStyle.Fill;
             panel1.Location = new Point(0, 0);
             panel1.Name = "panel1";
-            panel1.Size = new Size(798, 204);
+            panel1.Size = new Size(933, 253);
             panel1.TabIndex = 8;
             // 
             // label6
@@ -168,11 +170,12 @@
             // IpBox
             // 
             IpBox.Anchor = AnchorStyles.Top | AnchorStyles.Left | AnchorStyles.Right;
+            IpBox.BackColor = Color.White;
             IpBox.Location = new Point(163, 11);
             IpBox.MinimumSize = new Size(200, 0);
             IpBox.Name = "IpBox";
             IpBox.ReadOnly = true;
-            IpBox.Size = new Size(209, 27);
+            IpBox.Size = new Size(310, 27);
             IpBox.TabIndex = 8;
             // 
             // panelBottom
@@ -182,17 +185,18 @@
             panelBottom.ForeColor = SystemColors.ActiveCaptionText;
             panelBottom.Location = new Point(0, 198);
             panelBottom.Name = "panelBottom";
-            panelBottom.Size = new Size(798, 55);
+            panelBottom.Size = new Size(933, 55);
             panelBottom.TabIndex = 9;
             // 
             // ConfigCajaForm
             // 
             AutoScaleDimensions = new SizeF(8F, 20F);
             AutoScaleMode = AutoScaleMode.Font;
-            ClientSize = new Size(798, 253);
+            ClientSize = new Size(933, 253);
             Controls.Add(panelBottom);
             Controls.Add(panel1);
             MaximizeBox = false;
+            MinimizeBox = false;
             Name = "ConfigCajaForm";
             ShowIcon = false;
             ShowInTaskbar = false;

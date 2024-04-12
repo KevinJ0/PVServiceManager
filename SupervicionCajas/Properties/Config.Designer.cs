@@ -37,7 +37,7 @@ namespace SupervicionCajas.Properties {
         
         [global::System.Configuration.UserScopedSettingAttribute()]
         [global::System.Diagnostics.DebuggerNonUserCodeAttribute()]
-        [global::System.Configuration.DefaultSettingValueAttribute("https://localhost:7008/mainHub")]
+        [global::System.Configuration.DefaultSettingValueAttribute("http://192.172.0.211:4010/mainHub")]
         public string SignalRUrl {
             get {
                 return ((string)(this["SignalRUrl"]));

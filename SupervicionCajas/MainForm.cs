@@ -4,9 +4,6 @@ using PVServiceManager.Data.Models;
 using Microsoft.AspNetCore.SignalR.Client;
 using SignalRService.Data.Models;
 using ConcurrentCollections;
-using System.ComponentModel;
-using static System.Windows.Forms.AxHost;
-using System.Windows.Forms;
 
 namespace SupervicionCajas
 {
@@ -32,7 +29,6 @@ namespace SupervicionCajas
         }
         private async Task InitializeSignalRConnection()
         {
-            //bool isSucceed = Util.Ping("192.172.1.53").Result;
 
             //Esto se realiza solo una vez hasta que conecta
             try
@@ -51,6 +47,7 @@ namespace SupervicionCajas
                 {
                     textBox1.Text = hubConnection.State.ToString();
                 }));
+
                 InitializeSignalRConnection();
             }
         }
@@ -58,7 +55,7 @@ namespace SupervicionCajas
         private void InitializeNotifyIcon()
         {
             notifyIcon = new NotifyIcon();
-            notifyIcon.Icon = Properties.Resources.dashboard;
+            notifyIcon.Icon = Properties.Resources.settings__5_;
             notifyIcon.Visible = true;
             notifyIcon.MouseDoubleClick += notifyIcon_MouseClick;
             void notifyIcon_MouseClick(object sender, EventArgs e)
@@ -142,7 +139,7 @@ namespace SupervicionCajas
 
             cajaDictionary.Add(configData.ip, configData);
 
-            MostrarCarga(false);
+            CancelarRespuesta(); //quita la pantalla de carga
         }
 
         private void RefreshCurrentStatusCashier()
@@ -439,8 +436,9 @@ namespace SupervicionCajas
         async Task ConnectSignalR()
         {
             MostrarCarga(true);
-            //stopTimers();
-            await Task.Run(async ()=> {
+
+            await Task.Run(async () =>
+            {
 
                 try
                 {
@@ -452,6 +450,7 @@ namespace SupervicionCajas
 
                     if (hubConnection.State == HubConnectionState.Connected)
                     {
+                        MostrarCarga(false);
                         MessageBox.Show("Conexión creada correctamente.", "Información", MessageBoxButtons.OK, MessageBoxIcon.Information);
                         await ResfreshCajasDictionary();
 
@@ -465,7 +464,6 @@ namespace SupervicionCajas
                 }
                 finally
                 {
-                    //StartTimers();
                     MostrarCarga(false);
 
                     Invoke((Action)(() =>
@@ -476,14 +474,13 @@ namespace SupervicionCajas
                     }));
                 }
             });
-            
+
         }
 
 
 
         private async Task ResfreshCajasDictionary()
         {
-
 
             try
             {
@@ -520,15 +517,35 @@ namespace SupervicionCajas
 
         }
 
-        private void button2_Click(object sender, EventArgs e)
+        System.Timers.Timer timerSignalRResponse;
+        public void EsperarRespuesta()
         {
 
-            // bool isSucceed =  Util.Ping("192.172.1.53").Result;
+            MostrarCarga(true);
+            timerSignalRResponse = new System.Timers.Timer(10000);
+
+            timerSignalRResponse.Elapsed += async (sender, e) =>
+            {
+                await Task.Run(async () =>
+                {
+                    MostrarCarga(false);
+                    timerSignalRResponse.Close();
+                    MessageBox.Show("No se recibió confirmación por parte del servicio en la caja. Verificar manualmente si los cambios fueron aplicados.", "Error", MessageBoxButtons.OK, MessageBoxIcon.Error);
+                });
+            };
+
+            timerSignalRResponse.Start();
 
         }
 
-        private void textBox1_TextChanged(object sender, EventArgs e)
+        public void CancelarRespuesta()
         {
+            if (timerSignalRResponse != null)
+            {
+                timerSignalRResponse.Close();
+            }
+
+            MostrarCarga(false);
 
         }
     }

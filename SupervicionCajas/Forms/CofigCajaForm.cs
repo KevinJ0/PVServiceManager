@@ -80,16 +80,17 @@ namespace SupervicionCajas
             {
                 try
                 {
-                    _mainForm.MostrarCarga(true);
+                    _mainForm.EsperarRespuesta();
                     Task.Run(() =>
                     {
                         _hubConnection.InvokeAsync("SendConfigurationToCaja", configCaja);
                     });
+                 
 
                 }
                 catch (Exception ex)
                 {
-                    _mainForm.MostrarCarga(false);
+                    _mainForm.CancelarRespuesta();
                     MessageBox.Show("Error al intentar enviar los datos al servidor. Error: "+ ex.Message, "Error", MessageBoxButtons.OK, MessageBoxIcon.Error);
                     
                 }
